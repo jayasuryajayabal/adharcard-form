@@ -1,0 +1,40 @@
+table,th,td{
+    border: solid 1px; 
+    height: 45px;  
+    
+}
+
+.eb{
+    display: flex;
+    justify-content: space-between;
+}
+
+.uip{
+    display: flex;
+    justify-content: space-between;
+}
+
+body{
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+h1{
+    padding-left: 50px;
+    color: rgb(120, 5, 5);
+}
+h3{
+    display: flex;
+    justify-content: center;
+    color: rgb(120, 5, 5);
+   
+}
+body{
+    background-color: rgb(254, 253, 253);
+}
+
+.text{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
